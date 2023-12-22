@@ -1,6 +1,6 @@
-package com.ws;
+package com.ws; // 패키지
 
-import java.util.Scanner;
+import java.util.Scanner; //스캐너 유틸리티
 
 public class Container {
 	private static Scanner sc;
